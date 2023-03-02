@@ -10,7 +10,7 @@ I am a software engineer working primarily with Javascript. Through my work, I h
 ![image](https://user-images.githubusercontent.com/105075345/222489958-8c75993f-527d-428f-ae46-69ea8d72b926.png)
 ![image](https://user-images.githubusercontent.com/105075345/222493138-d2ff8e0b-03cc-4d1f-b6d9-54b4549d9a15.png)
 ![image](https://user-images.githubusercontent.com/105075345/222491220-a4f86d9b-5b09-45b1-aa47-620f32bb7023.png)
-![image]([https://iconscout.com/icon/sequelize](https://symbols.getvecta.com/stencil_261/45_sequelize.7e233926cd.svg)
+![image](https://cdn.codeforgeek.com/wp-content/uploads/2017/01/sequelize-logo.png.webp)
 ![image](https://user-images.githubusercontent.com/105075345/222492010-d02a7074-414e-4bd1-9ff8-752c89179270.png)
 ![image](https://user-images.githubusercontent.com/105075345/222492110-b74cef70-a8a3-4221-9df9-22655f18df11.png)
 ![image](https://user-images.githubusercontent.com/105075345/222492484-0efa63f1-9b0e-44d5-81d8-75f64bb12438.png)
