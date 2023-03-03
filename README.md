@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
 </div>
+### :woman_technologist: About Me :
 
 I am a software engineer working primarily with the PERN stack and Javascript. Through my work, I hope to make the world a better, more beautiful place.  👩‍💻🦄🏔🌳🎨🌎✨🌊🪷🌈💻 
 
