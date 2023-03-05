@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me :
 
 I am a software engineer working primarily with the PERN stack and Javascript. Through my work, I hope to make the world a better, more beautiful place.
-🦄🏔🌳🎨🌎✨🌊🪷🌈💻 
+🦄🏔🪷🌳🎨🌎✨🌊🌷🌈💻 
 
 ### :hammer_and_wrench: Languages and Tools :
 
